@@ -7,7 +7,7 @@ With a solid foundation in React.js, JavaScript, Node.js, Express.js, and other 
 ⚡ Fun fact: I love to travel and plan.
 📫 How to reach me:
 Email: kshan962@gmail.com
-LinkedIn [LinkedIn](https://www.linkedin.com/in/shan-khan-b47481241/)
+LinkedIn [Shan](https://www.linkedin.com/in/shan-khan-b47481241/)
 Please reach out with any questions or opportunities-->Looking forward to connecting!
 
 <!--
