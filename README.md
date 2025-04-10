@@ -4,10 +4,15 @@ Hi! My name is Shan Khan, and I am a Full Stack Software Engineer with a strong 
 With a solid foundation in React.js, JavaScript, Node.js, Express.js, and other modern technologies, I bring both technical expertise and a collaborative mindset to every project. My background in engineering, problem-solving, and customer service enables me to approach challenges from multiple angles and deliver impactful results.
 
 💬 Ask me about anything and everything
+
 ⚡ Fun fact: I love to travel and plan.
+
 📫 How to reach me:
+
 Email: kshan962@gmail.com
+
 LinkedIn [Shan](https://www.linkedin.com/in/shan-khan-b47481241/)
+
 Please reach out with any questions or opportunities-->Looking forward to connecting!
 
 <!--
