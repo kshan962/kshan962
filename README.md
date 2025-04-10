@@ -1,4 +1,5 @@
 👨‍💻 About Me :
+
 Hi! My name is Shan Khan, and I am a Full Stack Software Engineer with a strong passion for building efficient, scalable, and user-focused web applications. I thrive on making meaningful connections—whether between frontend and backend technologies, across diverse teams and disciplines, or by applying technical solutions to real-world challenges.
 
 With a solid foundation in React.js, JavaScript, Node.js, Express.js, and other modern technologies, I bring both technical expertise and a collaborative mindset to every project. My background in engineering, problem-solving, and customer service enables me to approach challenges from multiple angles and deliver impactful results.
